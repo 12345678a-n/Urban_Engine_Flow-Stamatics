@@ -10,6 +10,7 @@ __pycache__/
 *.pyo
 venv/
 env/
+cache/
 
 # Environment variables (Never push your API keys!)
 .env
