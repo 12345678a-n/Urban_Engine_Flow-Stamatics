@@ -1,0 +1,11 @@
+Steps to follow once you are done with your cpp script:
+1) Install osmnx and other library on your system through pip commands or requirements.txt
+2)Read osmnx documentation
+3) Create an account on google ai studio and get API key from there. 
+4) Move all of the scripts to one single folder 
+5) initliase API key as an environment variable in your command terminal using $env = “YOUR API KEY”
+6) download required map from google maps by providing coordinates and distance
+7) mark the required places with coordinates as landmarks in landmark section
+8) comoile your engine.cpp file 
+8) run agent.py on your command terminal, input a natural language query and verify the output
+9) After this you can tweak in the python scripts to locate bridges or to find some other meaningful data as well

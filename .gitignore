@@ -1,0 +1,19 @@
+# Compiled C++ binaries
+*.exe
+engine
+*.out
+*.o
+
+# Python caches and environments
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Environment variables (Never push your API keys!)
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
